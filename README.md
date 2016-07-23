@@ -1,4 +1,4 @@
 # This is my README
 
-- This is a toy app
 - It's for funsies
+- There's not much to see yet
